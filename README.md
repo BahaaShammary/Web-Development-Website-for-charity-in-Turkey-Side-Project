@@ -1,1 +1,2 @@
 # Web Development/Website for charity in Turkey Side Project
+Designed and created this website for a charity in Turkey that helps Iraqi refugees. The website is designed and written in two languages Arabic and English with possiblity of adding Turkish as well. To complete this project, I used my previous knowledge from college in addition to the resources I found online which helped me finish and publish this site. I used HTML, CSS & Bootstrap to make the website.
